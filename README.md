@@ -11,7 +11,7 @@
   <p>🎮Game Design</p>
   <br>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natsuyasu&theme=blue-black&bg_color=00000000&layout=compact")
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natsuyasu&theme=blue-black&bg_color=00000000&layout=compact&hide=HLSL">
   </p>
 </div>
 
