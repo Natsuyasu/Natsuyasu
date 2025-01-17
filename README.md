@@ -1,5 +1,6 @@
 <div align="center">
   <h2>Hi👋, I'm Vivia🐇 </h2>
+  <h3>I'm a master student in Western University.</h3>
   <p>
     <img src="https://img.shields.io/github/stars/Natsuyasu?style=social" alt="github stars">
     <img src="https://img.shields.io/github/followers/Natsuyasu?style=social" alt="github followers">
@@ -10,7 +11,7 @@
   <br>
   <p>🎉🎉🎉Feel free to visit and have fun~ 🎉🎉🎉</p>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RottenTangerine&theme=blue-black&bg_color=00000000&layout=compact")
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natsuyasu&theme=blue-black&bg_color=00000000&layout=compact")
   </p>
 </div>
 
