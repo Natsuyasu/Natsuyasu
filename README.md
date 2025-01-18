@@ -9,7 +9,7 @@
   <h3>I'm currently learning ...</h3>
   <p>🧝‍♀️Human-Computer Interaction</p>
   <p>⌨️Front-end Web Development</p>
-  <p>🎮Game Design</p>
+  <p>🎮Game Design (Persuasive Game)</p>
   <br>
   <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natsuyasu&theme=blue-black&bg_color=00000000&layout=compact&hide=HLSL">
