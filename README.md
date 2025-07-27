@@ -1,6 +1,6 @@
 <div align="center"><img src="https://s21.ax1x.com/2025/01/17/pEFLK8P.jpg" alt="pEFLK8P.jpg" border="0" /></div>
 <div align="center">
-  <h2>Hi👋, I'm Vivia🐇 </h2>
+  <h2>Hi👋, I'm Vivia </h2>
   <h3>I'm a master student in Western University.</h3>
   <p>
     <img src="https://img.shields.io/github/stars/Natsuyasu?style=social" alt="github stars">
