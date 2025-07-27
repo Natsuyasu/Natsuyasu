@@ -6,7 +6,6 @@
     <img src="https://img.shields.io/github/stars/Natsuyasu?style=social" alt="github stars">
     <img src="https://img.shields.io/github/followers/Natsuyasu?style=social" alt="github followers">
   </p>
-  <h3>I'm currently learning ...</h3>
   <p>🧝‍♀️Human-Computer Interaction  ⌨️Front-end Web Development  🎮Game Design (Persuasive Game)</p>
   <br>
   <p>
