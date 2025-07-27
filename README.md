@@ -7,9 +7,7 @@
     <img src="https://img.shields.io/github/followers/Natsuyasu?style=social" alt="github followers">
   </p>
   <h3>I'm currently learning ...</h3>
-  <p>🧝‍♀️Human-Computer Interaction</p>
-  <p>⌨️Front-end Web Development</p>
-  <p>🎮Game Design (Persuasive Game)</p>
+  <p>🧝‍♀️Human-Computer Interaction  ⌨️Front-end Web Development  🎮Game Design (Persuasive Game)</p>
   <br>
   <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natsuyasu&theme=blue-black&bg_color=00000000&layout=compact&hide=HLSL">
